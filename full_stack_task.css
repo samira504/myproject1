@@ -1,0 +1,23 @@
+.div1
+{
+	margin: 50px;
+	width: 1500px;
+	height: 2100px;
+	border: solid;
+}
+.pages
+{
+	margin: 50px;
+	width: 1400px;
+	height: 30px;
+	border: solid;
+
+}
+.photos
+{
+	padding: 50px;
+	width: 900px;
+	height: 600px;
+	border: solid;
+
+}
